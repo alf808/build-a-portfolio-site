@@ -3,15 +3,27 @@ body {
   color: #747704;
   font-weight: 300;
 }
-.text-muted {
-  color: #BCBBBB;
+
+.line-thick {
+  background-color: #bcbbbb;
+  border: 0 none;
+  color: #bcbbbb;
+  height: 0.18em
 }
+
+.text-muted {
+  color: #bcbbbb;
+}
+
 .text-thin {
   font-weight: 100;
 }
+
 .title-logo {
-  margin-top: 20px;
+  margin-top: 1.5em;
+  color: #f8981c;
 }
+
 .title-super {
-  font-size: 40px;
+  font-size: 3em;
 }
